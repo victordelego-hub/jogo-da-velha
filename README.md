@@ -6,7 +6,7 @@
 | B |   |   |   |
 | C |   |   |   |
 
-**Legenda**
+**JOGADORES**
 
-- ❌ Primeiro jogador 
-- ⭕ Segundo jogador
+- ❌ Victor 01 
+- ⭕ Victor 02
